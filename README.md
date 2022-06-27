@@ -1,2 +1,8 @@
-# agis-resolusi
-agis resolusi 
+# agis-resolusi.txt
+
+-menjadi lebih baik bagi semua orang 
+-tidak mengeluh
+-berjuang 2 tahun 
+-web developer hebat
+-membuat aplikasi keuangan aphsupply.co
+-menjadi orang yg ditunggu semua orang
